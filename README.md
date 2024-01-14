@@ -1,6 +1,4 @@
 ![](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)
-![](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)
-![](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)
 <h1 align="center">Hi 👋, I'm Pranay</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
